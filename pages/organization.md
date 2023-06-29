@@ -31,9 +31,15 @@ title: "Organization"
 ## Doctoral Symposium Chairs
 
 * [Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang), Vanderbilt University, Nashville, Tennessee, USA
-* [Jie Ying](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
+* [Jie Ying Wu](https://engineering.vanderbilt.edu/bio/jieying-wu), Vanderbilt University, Nashville, Tennessee, USA
 
 ## Website, and Email Communication
 
 * [Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer), Vanderbilt University, Nashville, Tennessee, USA
 * [Karthik Ramadass](https://www.vanderbilt.edu/vise/visepeople/karthik-ramadass/), Vanderbilt University, Nashville, Tennessee, USA
+
+
+## Supporting academic organization
+<center>
+<a href="https://www.vanderbilt.edu/"><img width="30%" src="/images/Vanderbilt_University_seal.svg.png" alt="Vanderbilt University Logo"></a>
+</center>
